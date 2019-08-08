@@ -1,0 +1,29 @@
+.banner {
+/*  background-size: 100%;*/
+  background-position: -89px -358px;
+  padding: 170px 0px;
+  background-repeat: no-repeat;
+
+}
+
+.banner h1 {
+  color: #ef4b4b;
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 48px;
+  margin-top: -51px;
+  margin-left: -56px;
+}
+
+.banner p {
+  font-size: 30px;
+  padding-left: 269px;
+  background: linear-gradient(to right, #ffb3b3 16%, #524949 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.banner .container {
+  padding-left: 2px;
+  margin-right: 363px;
+}
